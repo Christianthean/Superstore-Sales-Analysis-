@@ -19,7 +19,7 @@ Superstore-Tableau-Dashboard/
 ## 📌 Dashboard Preview
 Here’s a snapshot of the Tableau dashboard:
 
-![Superstore Tableau Dashboard](tableau/Tableau%20Dashboard.png)
+![Superstore Tableau Dashboard](tableau%20dashboard/Tableau%20Dashboard.png)
 
 ---
 
